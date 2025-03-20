@@ -4,7 +4,7 @@ View your schedule *v1.0.0* 💾.
 
 # How To Use 🖱️
 
- - [x] **1.** Open [**Web App** 🚀](https://alexandr-stark.github.io/Schedule/)
+ - [x] **1.** Open [**Web App** 🚀](https://ser-alexander.github.io/Schedule/)
  - [x] **2.** Choose your **Group 📒**
  - [x] **3.** Choose **Week(s)** and **Day**  📅
 
